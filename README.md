@@ -1,8 +1,14 @@
-# Fungi Grower
+# Fungi Grower (Mushroom Grow Kit)
 
 **Created by:** Eli
 
 ![Fungi Grower](fungi-grower.png)
+
+The MGS kit is used to start mushroom gardens. I made it so you can grow a garden using biodegradable materials, so nothing gets left behind in the dirt.
+
+My product is a sphere covered in a Voronoi hole pattern, with a screw-on bottom so you can fill it with mushroom spawn and things like wood chips or coffee grounds. The holes let the mushrooms grow out.
+
+Mushrooms help your garden grow more kinds of life.
 
 ## Printed with PHA 🌱
 
